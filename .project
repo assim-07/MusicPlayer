@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SagarMusicPlayer</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/144143145.png</name>
+			<type>1</type>
+			<location>C:/but/button/144143145.png</location>
+		</link>
+		<link>
+			<name>src/pause-button-outline_318-40569.jpg</name>
+			<type>1</type>
+			<location>C:/but/button/pause-button-outline_318-40569.jpg</location>
+		</link>
+		<link>
+			<name>src/play-button_318-42541kkk.png</name>
+			<type>1</type>
+			<location>C:/but/button/play-button_318-42541kkk.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
